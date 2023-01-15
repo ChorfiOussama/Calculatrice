@@ -1,0 +1,43 @@
+body {
+  background-image: url("../img/math.jpg");
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+  background-attachment: fixed;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 3%;
+  font-weight: bold;
+  color: #2e90ff;
+  font-style: oblique;
+  text-transform: capitalize;
+  text-shadow: 25px 10px 3px gray;
+  white-space: inherit;
+}
+
+#text {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 4%;
+}
+
+#nm1 {
+  width: 40%;
+  margin-left: 30%;
+  margin-top: 1%;
+}
+
+.footer {
+  padding: 6rem 2rem 0;
+}
+
+.copy {
+  text-align: center;
+  margin-top: 1.5rem;
+  padding: 0.5rem;
+  font-size: var(--small-font-size);
+  font-weight: bold;
+  color: black;
+}
